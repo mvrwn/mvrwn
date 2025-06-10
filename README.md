@@ -1,5 +1,5 @@
-# Yo! , My name is Marwan
-### I'm a self taught student , working on data analysis, machine learning , game development and web development 
+Yo! I'm Marwan 🚀
+Hey there! I'm a self-taught coder diving headfirst into data analysis, machine learning, game development, and web development. I love turning ideas into reality, whether it's a sleek website, a Roblox adventure, or a data-driven insight.
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -15,6 +15,40 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
+🎧 Now Playing
+Check out what’s vibing on my Spotify! 🎶
+
+🎮 Fun Widgets & Stats
+📊 GitHub Stats
+
+🌐 Top Languages
+
+🐍 Contribution Snake
+My commits are slithering!
+💡 Random Coding Quote
+Inspiration for the grind!
+🏆 GitHub Trophies
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nusm6f5dz4tfbgmndxdw4idptu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nusm6f5dz4tfbgmndxdw4idptu&redirect=true)
+🚀 Featured Projects
+
+Cat Dodge: Chaos EditionA React/TypeScript web game where a cat dodges flying toasters and eggs!Tech: React, TypeScript, Tailwind CSS, Vite
+
+WeRateDogs AnalysisA Python data analysis project exploring Twitter’s dog ratings with visualizations.Tech: Python, Pandas, Matplotlib, Tweepy
+
+Roblox AdventureA Roblox game with custom animations and interactive gameplay.Tech: Lua, Roblox Studio
+
+
+Check out more on my repositories!
+
+📫 Connect with Me
+
+📧 Email: [your-email@example.com]
+💼 LinkedIn: [link-to-linkedin]
+🐦 X: [link-to-x-profile]
+🌐 Portfolio: [link-to-website, e.g., https://mxliich.github.io]
+
+
+🕹️ Let’s Build Something Epic!
+Got a crazy idea for a game, web app, or ML project? Fork my repos, open a PR, or ping me. Let’s code the future! ✨
+
