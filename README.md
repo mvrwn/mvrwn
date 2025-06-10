@@ -18,7 +18,7 @@
 
 # 🎧 Now Playing
 Check out what’s vibing on my Spotify! 🎶
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nusm6f5dz4tfbgmndxdw4idptu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nusm6f5dz4tfbgmndxdw4idptu&redirect=true)
 
 
 # My Projects So Far
