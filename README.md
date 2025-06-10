@@ -1,5 +1,5 @@
-Yo! I'm Marwan 🚀
-Hey there! I'm a self-taught coder diving headfirst into data analysis, machine learning, game development, and web development. I love turning ideas into reality, whether it's a sleek website, a Roblox adventure, or a data-driven insight.
+# Yo! I'm Marwan 🚀
+### Hey there! I'm a self-taught coder diving headfirst into data analysis, machine learning, game development, and web development. I love turning ideas into reality, whether it's a sleek website, a Roblox adventure, or a data-driven insight.
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -15,40 +15,14 @@ Hey there! I'm a self-taught coder diving headfirst into data analysis, machine 
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-🎧 Now Playing
+
+# 🎧 Now Playing
 Check out what’s vibing on my Spotify! 🎶
-
-🎮 Fun Widgets & Stats
-📊 GitHub Stats
-
-🌐 Top Languages
-
-🐍 Contribution Snake
-My commits are slithering!
-💡 Random Coding Quote
-Inspiration for the grind!
-🏆 GitHub Trophies
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?
 
 
-🚀 Featured Projects
+# My Projects So Far
 
-Cat Dodge: Chaos EditionA React/TypeScript web game where a cat dodges flying toasters and eggs!Tech: React, TypeScript, Tailwind CSS, Vite
+## Rate The Cat : https://ratethecat.vercel.app
 
-WeRateDogs AnalysisA Python data analysis project exploring Twitter’s dog ratings with visualizations.Tech: Python, Pandas, Matplotlib, Tweepy
-
-Roblox AdventureA Roblox game with custom animations and interactive gameplay.Tech: Lua, Roblox Studio
-
-
-Check out more on my repositories!
-
-📫 Connect with Me
-
-📧 Email: [your-email@example.com]
-💼 LinkedIn: [link-to-linkedin]
-🐦 X: [link-to-x-profile]
-🌐 Portfolio: [link-to-website, e.g., https://mxliich.github.io]
-
-
-🕹️ Let’s Build Something Epic!
-Got a crazy idea for a game, web app, or ML project? Fork my repos, open a PR, or ping me. Let’s code the future! ✨
-
+## Call With Larry : https://larrythefreakyguy.netlify.app
