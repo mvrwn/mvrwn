@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Marwan (aka mvrwn).<br><br>I’m a self-taught student who loves picking up new skills—whether it’s a language, hobby, or anything that challenges my last surviving brain cells.<br><br>When I’m not learning or building, you’ll probably find me gaming or just hanging out online to kill boredom. Always open to chat and connect.
+# Hi, I'm Marwan (aka mvrwn).
+I’m a self-taught student who loves picking up new skills—whether it’s a language, hobby, or anything that challenges my last surviving brain cells.<br><br>When I’m not learning or building, you’ll probably find me gaming or just hanging out online to kill boredom. Always open to chat and connect.
 
 
 # 💻 Tech Stack:
